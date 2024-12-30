@@ -10,7 +10,7 @@ adventure-platform = "4.3.4"
 bukkit = "1.20.2-R0.1-SNAPSHOT"
 bungeecord = "1.20-R0.3-SNAPSHOT"
 nukkit = "1.0-SNAPSHOT"
-sponge = "10.0.0"
+sponge = "13.0.0"
 velocity = "3.2.0-SNAPSHOT"
 
 # File formats
