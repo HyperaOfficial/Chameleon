@@ -42,7 +42,7 @@ shadow = "8.1.8"
 junit = "5.11.4"
 truth = "1.4.4"
 guava-testlib = "33.4.0-jre"
-mockito = "5.14.2"
+mockito = "5.15.2"
 
 
 [libraries]
